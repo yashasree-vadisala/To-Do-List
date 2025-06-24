@@ -28,7 +28,7 @@ A beautifully designed, responsive To-Do List web app built using **HTML**, **CS
 
 - **HTML5** – for structure
 - **CSS3** – for styling and layout
-- **JavaScript (Vanilla)** – for interactivity and logic
+- **JavaScript** – for interactivity and logic
 - **localStorage** – for persistent task storage
 - **Font Awesome** – for icons
 - **confettijs** – for celebratory animations
